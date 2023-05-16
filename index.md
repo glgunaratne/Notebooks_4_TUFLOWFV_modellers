@@ -5,8 +5,8 @@ Hi, I'm Gayan Gunaratne, a Python enthusiast and blogger. Here, you'll find a co
 ## Blog Posts
 
 - [Blog Post 1](blog1.md)
-- [Blog Post 2](blog2.md)
-- [Blog Post 3](blog3.md)
+- [Blog Post 2](https://glgunaratne.github.io/bookdown_CS001/)
+
 
 Feel free to explore and read my articles. Thank you!
 
