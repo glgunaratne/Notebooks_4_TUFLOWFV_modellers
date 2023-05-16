@@ -4,7 +4,7 @@ Hi, I'm Gayan Gunaratne, a Python enthusiast and blogger. Here, you'll find a co
 
 ## Blog Posts
 
-- [Blog Post 1](blog1.md)
+- [Blog Post 1](https://glgunaratne.github.io/tuflowfv_tracer_mass/)
 - [Blog Post 2](https://glgunaratne.github.io/bookdown_CS001/)
 
 
